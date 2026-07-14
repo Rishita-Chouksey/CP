@@ -11,4 +11,8 @@ competitive prog repo
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rishita-Chouksey/CP/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Rishita-Chouksey/CP/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
